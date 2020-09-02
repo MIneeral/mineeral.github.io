@@ -6,7 +6,7 @@ body {
 
 #title {
     position: absolute;
-    top: 44%; left: 48%;
+    top: 32%; left: 48%;
     transform: translate(-50%, -50%);
 	padding: 0; margin: 0;
     text-align: center;
@@ -15,13 +15,13 @@ body {
     text-transform: uppercase;
     font-family: 'Rosemary', sans-serif;
     font-size: 40px;
-    color: #ffffff;
+    color: #ff8888;
     padding-bottom: 3px;
     text-decoration: none;
 }
 #nav {
     position: absolute;
-    top: 50%; left: 50%;
+    top: 20%; left: 20%;
     transform: translate(-50%, -50%);
 	padding: 0; margin: 0;
     text-align: center;
@@ -39,7 +39,7 @@ body {
     text-transform: uppercase;
     font-family: 'Rosemary', sans-serif;
     font-size: 20px;
-    color: #ffffff;
+    color: #ff8888;
     padding-bottom: 3px;
     text-decoration: none;
 }
