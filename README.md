@@ -1,2 +1,2 @@
-# Gautier GitHub
+# Mineral
 Simple site web.
