@@ -1,27 +1,27 @@
 body {
-    background-image: url("https://raw.githubusercontent.com/gautiersc/gautiersc.github.io/master/Assets/Background/background.gif");
+    background-image: url("https://raw.githubusercontent.com/mineralsc/mineralsc.github.io/master/Assets/Background/background.gif");
     background-size:cover;
     color: #ffffff;
 }
 
 #title {
     position: absolute;
-    top: 44%; left: 49%;
+    top: 74%; left: 79%;
     transform: translate(-50%, -50%);
 	padding: 0; margin: 0;
     text-align: center;
 	display: inline-block;
 	margin: 0 11px;
     text-transform: uppercase;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Rosemary', sans-serif;
     font-size: 40px;
-    color: #ffffff;
+    color: #000000;
     padding-bottom: 3px;
     text-decoration: none;
 }
 #nav {
     position: absolute;
-    top: 50%; left: 50%;
+    top: 0%; left: 0%;
     transform: translate(-50%, -50%);
 	padding: 0; margin: 0;
     text-align: center;
@@ -39,17 +39,17 @@ body {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    color: #ffffff;
+    color: #000000;
     padding-bottom: 3px;
     text-decoration: none;
 }
 #nav a:hover {
-    animation: animationRotate 1.5s;
+    animation: animationRotate 2s;
     font-size: 21px;
 }
 
 @keyframes animationRotate {
     100% {
-        transform: rotate(360deg);
+        transform: rotate(720deg);
    }
 }
