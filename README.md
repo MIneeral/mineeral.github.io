@@ -1,2 +1,2 @@
 # Mineral
-Simple site web.
+Simple Github site web.
